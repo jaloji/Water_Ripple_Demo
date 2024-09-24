@@ -1,1 +1,19 @@
 # Water_Ripple_Demo
+
+Circle Boat:
+![hippo]([https://giphy.com/gifs/2aWgSEgXKohktiw67X](https://giphy.com/gifs/2aWgSEgXKohktiw67X))
+
+Circle Rain:
+![hippo]([https://giphy.com/gifs/AicaRBrMJ2i1fymqum](https://giphy.com/gifs/AicaRBrMJ2i1fymqum))
+
+Circle Wind:
+![hippo]([https://giphy.com/gifs/WWMYHWEKlHINcM4fNt](https://giphy.com/gifs/WWMYHWEKlHINcM4fNt))
+
+Elipse Boat:
+![hippo]([https://giphy.com/gifs/OFQhnrBWkleW60msuy](https://giphy.com/gifs/OFQhnrBWkleW60msuy))
+
+Elipse Rain:
+![hippo]([https://giphy.com/gifs/k7F8HJjl7INq3ofX0w](https://giphy.com/gifs/k7F8HJjl7INq3ofX0w))
+
+Elipse Wind:
+![hippo]([https://giphy.com/gifs/ONgzE4YTgxWiF0Pz9P](https://giphy.com/gifs/ONgzE4YTgxWiF0Pz9P))
