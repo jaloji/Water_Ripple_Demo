@@ -2,6 +2,7 @@
 
 Circle Boat:
 ![hippo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFtZWdvbTJzM2gwa3dtZzJhcXRhbXIxemhqcHgxZGxudnY3aWI1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k7F8HJjl7INq3ofX0w/giphy.gif)
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFtZWdvbTJzM2gwa3dtZzJhcXRhbXIxemhqcHgxZGxudnY3aWI1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k7F8HJjl7INq3ofX0w/giphy.gif" alt="Alt text">
 
 Circle Rain:
 ![hippo]([https://giphy.com/gifs/AicaRBrMJ2i1fymqum](https://giphy.com/gifs/AicaRBrMJ2i1fymqum))
